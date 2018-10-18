@@ -11,7 +11,9 @@ end
 
 
 def take_a_number(other_deli, name)
-  puts "Welcome, #{name}. You are number 4 in line."
+  other_deli.push(name)
+  binding.pry
+   puts "Welcome, #{name}. You are number 4 in line."
 end
 
 
