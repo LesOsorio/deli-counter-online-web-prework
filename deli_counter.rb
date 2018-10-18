@@ -1,3 +1,4 @@
+require 'pry'
 
 def line(katz_deli)
   katz_deli = []
