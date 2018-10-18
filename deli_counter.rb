@@ -27,3 +27,4 @@ end
 line = []
 take_a_number(line, "Cernan")
 take_a_number(line, "Les")
+take_a_number(line, "Bob")
