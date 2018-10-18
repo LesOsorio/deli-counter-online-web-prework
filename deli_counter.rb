@@ -34,4 +34,5 @@ take_a_number(line, "Cernan")
 take_a_number(line, "Les")
 take_a_number(line, "Bob")
 now_serving(line)
+now_serving(line)
 #Now serving Cernan
