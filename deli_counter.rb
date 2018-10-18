@@ -20,7 +20,7 @@ end
 
 
 def now_serving(katz_deli)
-  binding.pry
+  #binding.pry
   if katz_deli.count == 0
     puts "There is nobody waiting to be served!"
   else
@@ -34,6 +34,8 @@ line = []
 take_a_number(line, "Cernan")
 take_a_number(line, "Les")
 take_a_number(line, "Bob")
+now_serving(line)
+now_serving(line)
 now_serving(line)
 now_serving(line)
 #Now serving Cernan
