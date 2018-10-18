@@ -21,5 +21,5 @@ def now_serving(katz_deli)
 end
 end
 
-
-puts "hello"
+line = []
+take_a_number(line, "Cernan")
